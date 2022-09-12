@@ -1,5 +1,5 @@
 ***
-| S.No. | Range  | Repo | Webpage |
+| S.No. | Name  | Repo | Webpage |
 | :---:   | :-: |  :-: |  :-: | 
 | 1 | [BMS](https://github.com/ravana69/bms/compare/main...HedCET:bms:main) | [🔗](https://github.com/ravana69/bms/) | [🐱‍👤](https://flatgithub.com/ravana69/bms/) |
 | 2 | [paytm-movies](https://github.com/ravana69/paytm-movies/compare/main...HedCET:paytm-movies:main) | [🔗](https://github.com/ravana69/paytm-movies/) | [🐱‍👤](https://flatgithub.com/ravana69/bms/) |
