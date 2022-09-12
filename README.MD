@@ -1,8 +1,9 @@
 ***
-| S.No. | Range  | Webpage |
-| :---:   | :-: |  :-: | 
-| 1 | [BMS](https://github.com/ravana69/bms/compare/main...HedCET:bms:main) | [🔗](https://github.com/ravana69/bms/) |
-| 2 | [paytm-movies](https://github.com/ravana69/paytm-movies/compare/main...HedCET:paytm-movies:main) | [🔗](https://github.com/ravana69/paytm-movies/) |
-| 3 | [ticketnew](https://github.com/ravana69/ticketnew/compare/main...HedCET:ticketnew:main) | [🔗](https://github.com/ravana69/ticketnew/) |
-| 4 | [vox](https://github.com/ravana69/vox/compare/main...HedCET:vox:main) | [🔗](https://github.com/ravana69/vox/) |
+| S.No. | Range  | Repo | Webpage |
+| :---:   | :-: |  :-: |  :-: | 
+| 1 | [BMS](https://github.com/ravana69/bms/compare/main...HedCET:bms:main) | [🔗](https://github.com/ravana69/bms/) | [🐱‍👤](https://flatgithub.com/ravana69/bms/) |
+| 2 | [paytm-movies](https://github.com/ravana69/paytm-movies/compare/main...HedCET:paytm-movies:main) | [🔗](https://github.com/ravana69/paytm-movies/) | [🐱‍👤](https://flatgithub.com/ravana69/bms/) |
+| 3 | [ticketnew](https://github.com/ravana69/ticketnew/compare/main...HedCET:ticketnew:main) | [🔗](https://github.com/ravana69/ticketnew/) | [🐱‍👤](https://flatgithub.com/ravana69/bms/) |
+| 4 | [vox](https://github.com/ravana69/vox/compare/main...HedCET:vox:main) | [🔗](https://github.com/ravana69/vox/) | [🐱‍👤](https://flatgithub.com/ravana69/bms/) |
+| 5 | [Shazam Charts](https://github.com/ravana69/shazam-charts/compare/main...indraneel:shazam-charts:main) | [🔗](https://github.com/ravana69/shazam-charts/) | [🐱‍👤](https://flatgithub.com/ravana69/bms/) |
 ***
